@@ -13,10 +13,3 @@ https://app.powerbi.com/view?r=eyJrIjoiNjY2YTVhZGItZDZkYS00NDliLTk0OWMtZTIzNzA5N
 ## Descripción
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
 
-## Run
-
-nostrud exercitation ullamco Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-
-## Demo
-
-https://www.infobae.com/politica/2022/11/01/pese-a-la-falta-de-un-reconocimiento-explicito-en-el-gobierno-interpretan-que-jair-bolsonaro-acepto-la-derrota-ante-lula/
