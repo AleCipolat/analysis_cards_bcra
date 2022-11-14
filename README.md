@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AleCipolat/analysis_cards_bcra/main/cards_banner.jpeg"  height="450px" />
+<img src="https://raw.githubusercontent.com/AleCipolat/analysis_cards_bcra/main/cards_dashboard_banner.jpeg"  height="450px" />
 
 ## Credit and Debit cards holders in Argentina.
 A time series analysis showing the distribution of the credit and debit cards holders in the Argentina Republic offered by financial entity, from 2002 to 2021.
