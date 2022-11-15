@@ -20,8 +20,8 @@ Argentina Republica Central Bank (BCRA):
 * Tab:
 
 ### ETL Process:
-An ETL process has been performed in order to clean and rearrange the original data in excel format to a .csv in Python. 
-Please refer to the following file:
+An ETL process has been performed in order to clean and rearrange the original dataset in excel format to a .csv in Python with the Pandas Package. 
+Please refer to the following file for the final format both in English and Spanish:
 
 ### Exploratory Data Analaysis.
 To discover the trends and potential features of this dataset, it has been performed an Exploratory Data Analysis in order to adress the initial questions.
