@@ -15,9 +15,10 @@ This time series describes the amount of holders of credits and debits cards tha
 
 ### Where data cames from - *Data source*:
 Argentina Republica Central Bank (BCRA): 
-* URL: 
-* Excel: 
-* Tab:
+* URL: https://www.bcra.gob.ar/Pdfs/PublicacionesEstadisticas/produser.xls
+* Excel: produser.xls
+* Tab: "cant_tarj_cred_deb"
+You can also find the raw data in the files
 
 ### How the data has been transformed and cleaned - *ETL Process*:
 An ETL process has been performed in order to clean and rearrange the original dataset in excel format to a .csv in Python with the Pandas Package. 
