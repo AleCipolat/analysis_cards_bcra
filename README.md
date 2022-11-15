@@ -10,21 +10,21 @@
 ## Demo Live
 https://app.powerbi.com/view?r=eyJrIjoiNjY2YTVhZGItZDZkYS00NDliLTk0OWMtZTIzNzA5NzM0NTJjIiwidCI6ImMxNDc4NGJjLWFhNWItNDhiOC04YjhhLWE3NjIxYjZlYzhmMiJ9
 
-## Description
-The time series describes the amount of holders of credits and debits cards that were offered in Argentina, from 2002 to 2021.
+## The credit and debit cards holders analysis in a nutshell:
+This time series describes the amount of holders of credits and debits cards that were offered in Argentina, from 2002 to 2021.
 
-### Data source:
+### Where data cames from - *Data source*:
 Argentina Republica Central Bank (BCRA): 
 * URL: 
 * Excel: 
 * Tab:
 
-### ETL Process:
+### How the data has been transformed and cleaned - *ETL Process*:
 An ETL process has been performed in order to clean and rearrange the original dataset in excel format to a .csv in Python with the Pandas Package. 
 Please refer to the following file for the final format both in English and Spanish:
 
-### Exploratory Data Analaysis.
+### What trends and patterns has been discovered - *Exploratory Data Analaysis*:
 To discover the trends and potential features of this dataset, it has been performed an Exploratory Data Analysis in order to adress the initial questions.
 
-### Dashboard.
+### Take a further look into the data with this interactive dashboard:
 In the you could interact with the data through a dashboard made with Power BI. 
