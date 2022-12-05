@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Demo Live
-https://app.powerbi.com/reportEmbed?reportId=6e5b5f54-d54f-4fb1-93ab-d63a41303fe2&autoAuth=true&ctid=c14784bc-aa5b-48b8-8b8a-a7621b6ec8f2
+https://app.powerbi.com/view?r=eyJrIjoiNTk0NTJjOTgtNzg1Ny00NDIyLWI5Y2UtZWUyZjZmYTliZWE1IiwidCI6ImMxNDc4NGJjLWFhNWItNDhiOC04YjhhLWE3NjIxYjZlYzhmMiJ9
 
 ## The credit and debit cards holders analysis in a nutshell:
 This time series describes the amount of holders of credits and debits cards that were offered in Argentina, from 2002 to 2021.
