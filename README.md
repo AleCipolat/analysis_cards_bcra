@@ -30,3 +30,5 @@ Please refer to the following file: EDA.ipynb
 
 ### Take a further look into the data with this interactive dashboard:
 In the you could interact with the data through a dashboard made with Power BI. 
+
+### The code has been made using Jupyter Notebooks
