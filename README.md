@@ -22,10 +22,11 @@ You can also find the raw data in the files
 
 ### How the data has been transformed and cleaned - *ETL Process*:
 An ETL process has been performed in order to clean and rearrange the original dataset in excel format to a .csv in Python with the Pandas Package. 
-Please refer to the following file for the final format both in English and Spanish:
+Please refer to the following file: credit_etl.ipynb
 
 ### What trends and patterns has been discovered - *Exploratory Data Analaysis*:
 To discover the trends and potential features of this dataset, it has been performed an Exploratory Data Analysis in order to adress the initial questions.
+Please refer to the following file: EDA.ipynb
 
 ### Take a further look into the data with this interactive dashboard:
 In the you could interact with the data through a dashboard made with Power BI. 
